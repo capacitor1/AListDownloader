@@ -1,0 +1,2 @@
+C:\Users\Lin\Desktop\AlistDownloader\bin\Release\net8.0-windows\publish\win-x64\AlistDownloader.pdb
+C:\Users\Lin\Desktop\AlistDownloader\bin\Release\net8.0-windows\publish\win-x64\AlistDownloader.exe

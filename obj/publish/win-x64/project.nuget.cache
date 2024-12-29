@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Abuhijk0uo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lin\\Desktop\\AlistDownloader\\AlistDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

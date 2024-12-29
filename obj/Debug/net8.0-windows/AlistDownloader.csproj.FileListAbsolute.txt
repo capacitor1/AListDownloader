@@ -1,0 +1,16 @@
+C:\Users\Lin\Desktop\AlistDownloader\bin\Debug\net8.0-windows\AlistDownloader.exe
+C:\Users\Lin\Desktop\AlistDownloader\bin\Debug\net8.0-windows\AlistDownloader.deps.json
+C:\Users\Lin\Desktop\AlistDownloader\bin\Debug\net8.0-windows\AlistDownloader.runtimeconfig.json
+C:\Users\Lin\Desktop\AlistDownloader\bin\Debug\net8.0-windows\AlistDownloader.dll
+C:\Users\Lin\Desktop\AlistDownloader\bin\Debug\net8.0-windows\AlistDownloader.pdb
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.Form1.resources
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.csproj.GenerateResource.cache
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.AssemblyInfoInputs.cache
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.AssemblyInfo.cs
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.dll
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\refint\AlistDownloader.dll
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.pdb
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\AlistDownloader.genruntimeconfig.cache
+C:\Users\Lin\Desktop\AlistDownloader\obj\Debug\net8.0-windows\ref\AlistDownloader.dll
